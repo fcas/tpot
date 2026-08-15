@@ -1,4 +1,5 @@
 [project]
+# retrigger dependency graph snapshot after transient GitHub-side submission error
 name = "tpot"
 version = "0.1.0"
 description = ""
